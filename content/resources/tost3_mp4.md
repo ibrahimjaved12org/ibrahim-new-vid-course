@@ -16,9 +16,9 @@ title: tost3.mp4
 uid: b0a9ba40-4cb8-4e31-a932-4c2ffba25286
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/ibrahim-new-vid-course/tost3_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: /courses/ibrahim-new-vid-course/tost3_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
