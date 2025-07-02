@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahim-new-vid-course/15fumtoaNTmUkSWudht3nT7_-msqr2kO7/tost.mp4
-file_size: 1055736
-file_type: video/mp4
+file: /courses/ibrahim-new-vid-course/tost4_captions.vtt
+file_size: 4434
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: tost.mp4
-uid: e98bccb1-ce33-48e5-bbbc-c20c8be77eb7
+resourcetype: Document
+title: tost4_captions.vtt
+uid: 3a092b6c-1874-4ad7-8380-a94150e3c7a1
 video_files:
   archive_url: ''
   video_captions_file: ''
