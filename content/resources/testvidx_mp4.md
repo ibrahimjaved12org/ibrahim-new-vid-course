@@ -16,9 +16,9 @@ title: testvidx.mp4
 uid: f12eac74-6dbd-4a09-9fd2-e35e651838b0
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: courses/ibrahim-new-vid-course/testvidx_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: courses/ibrahim-new-vid-course/testvidx_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
