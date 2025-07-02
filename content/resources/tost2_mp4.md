@@ -16,9 +16,9 @@ title: tost2.mp4
 uid: 3c8ef94c-2f9f-4a8d-a1b5-1d8c0ef5bec6
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: courses/ibrahim-new-vid-course/tost2_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: courses/ibrahim-new-vid-course/tost2_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
