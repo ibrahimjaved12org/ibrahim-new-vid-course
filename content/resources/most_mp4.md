@@ -16,9 +16,9 @@ title: most.mp4
 uid: 1e5ec612-7892-439a-aa2e-5192496ef9be
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/ibrahim-new-vid-course/most_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: courses/ibrahim-new-vid-course/most_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
